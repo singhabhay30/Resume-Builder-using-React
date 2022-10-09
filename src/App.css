@@ -1,0 +1,80 @@
+.App {
+  text-align: center;
+  background-color: azure;
+  height: 100%;
+}
+
+.Post {
+  max-width: 800px; 
+  width: 100%; 
+  display: table;
+}
+
+input {
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  word-wrap: break-word;
+  word-break: break-word;
+}
+
+label {
+  padding-left: 150px;
+  box-sizing: border-box;
+  text-align: left;
+  float:left;
+  font-size: small;
+}
+
+.pform {
+  box-sizing: border-box;
+  padding: 12px 20px;
+  margin: 8px 0;
+}
+
+button {
+  background-color: #008CBA;
+  margin: 20px;
+  font-size: 16px;
+}
+
+h1 {
+  background-color: brown;
+  padding: 40px;
+  margin: 0px;
+  height: max-content;
+}
+
+.footer {
+  /* position: fixed; */
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: brown;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  margin: 40px;
+}
+
+.pdiv {
+  padding: 8.5px;
+}
+
+.sdiv{
+  padding: 169px;
+}
+
+input[type=date] {
+  width: 20%;
+  float: left;
+}
+
+.datelabel {
+  margin: 8px;
+  font-size: 20px;
+  text-align: center;
+}
